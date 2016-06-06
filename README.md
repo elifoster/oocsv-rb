@@ -1,5 +1,5 @@
 # oocsv
-[![Gem Version](https://badge.fury.io/rb/string-utility.svg)](https://badge.fury.io/rb/string-utility)
+[![Gem Version](https://badge.fury.io/rb/oocsv.svg)](https://badge.fury.io/rb/oocsv)
 
 A very dynamic object-oriented approach to CSV reading and writing.
 
