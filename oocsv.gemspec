@@ -10,5 +10,7 @@ Gem::Specification.new do |s|
   s.metadata = {
     'issue_tracker' => 'https://github.com/elifoster/oocsv-rb/issues'
   }
-  s.files = []
+  s.files = [
+    'lib/oocsv.rb'
+  ]
 end 
