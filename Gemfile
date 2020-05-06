@@ -1,3 +1,3 @@
-ruby '2.3.0'
+ruby '2.6.5'
 source 'https://rubygems.org'
 
