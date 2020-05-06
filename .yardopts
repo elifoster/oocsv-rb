@@ -1,0 +1,6 @@
+--private
+--protected
+--markup=markdown
+--output-dir ./docs/
+-
+LICENSE.md
